@@ -1,0 +1,146 @@
+[
+  {
+    "category": "Geografia",
+    "question": "Qual é a capital do Brasil?",
+    "options": [
+      "Rio de Janeiro",
+      "Brasília",
+      "São Paulo",
+      "Salvador"
+    ],
+    "answer": 1,
+    "explanation": "Brasília é a capital federal desde 1960."
+  },
+  {
+    "category": "Ciência",
+    "question": "Qual planeta é conhecido como Planeta Vermelho?",
+    "options": [
+      "Vênus",
+      "Júpiter",
+      "Marte",
+      "Mercúrio"
+    ],
+    "answer": 2,
+    "explanation": "Marte tem aparência avermelhada por causa dos minerais em sua superfície."
+  },
+  {
+    "category": "História",
+    "question": "Em que ano ocorreu a Independência do Brasil?",
+    "options": [
+      "1500",
+      "1822",
+      "1889",
+      "1922"
+    ],
+    "answer": 1,
+    "explanation": "A Independência do Brasil é celebrada em 7 de setembro de 1822."
+  },
+  {
+    "category": "Natureza",
+    "question": "Qual é o maior animal conhecido do planeta?",
+    "options": [
+      "Elefante-africano",
+      "Baleia-azul",
+      "Tubarão-branco",
+      "Girafa"
+    ],
+    "answer": 1,
+    "explanation": "A baleia-azul é o maior animal conhecido."
+  },
+  {
+    "category": "Matemática",
+    "question": "Quanto é 9 × 7?",
+    "options": [
+      "56",
+      "63",
+      "72",
+      "67"
+    ],
+    "answer": 1,
+    "explanation": "Nove vezes sete é igual a sessenta e três."
+  },
+  {
+    "category": "Esportes",
+    "question": "Quantos jogadores de uma equipe começam em campo no futebol?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "Cada equipe começa com onze jogadores em campo."
+  },
+  {
+    "category": "Arte e Cultura",
+    "question": "Quem pintou a Mona Lisa?",
+    "options": [
+      "Van Gogh",
+      "Leonardo da Vinci",
+      "Picasso",
+      "Monet"
+    ],
+    "answer": 1,
+    "explanation": "Mona Lisa é uma pintura de Leonardo da Vinci."
+  },
+  {
+    "category": "Geografia",
+    "question": "Qual oceano banha a costa leste do Brasil?",
+    "options": [
+      "Pacífico",
+      "Índico",
+      "Atlântico",
+      "Ártico"
+    ],
+    "answer": 2,
+    "explanation": "A costa brasileira é banhada pelo Oceano Atlântico."
+  },
+  {
+    "category": "Ciência",
+    "question": "Qual é a unidade básica da vida?",
+    "options": [
+      "Átomo",
+      "Célula",
+      "Tecido",
+      "Órgão"
+    ],
+    "answer": 1,
+    "explanation": "A célula é a unidade estrutural e funcional básica dos seres vivos."
+  },
+  {
+    "category": "História",
+    "question": "Qual civilização construiu Machu Picchu?",
+    "options": [
+      "Maia",
+      "Inca",
+      "Asteca",
+      "Romana"
+    ],
+    "answer": 1,
+    "explanation": "Machu Picchu está associado à civilização inca."
+  },
+  {
+    "category": "Ciência",
+    "question": "Qual é o símbolo químico do sódio?",
+    "options": [
+      "S",
+      "So",
+      "Na",
+      "Sd"
+    ],
+    "answer": 2,
+    "explanation": "Na vem do nome latino natrium."
+  },
+  {
+    "category": "Geografia",
+    "question": "Qual linha divide a Terra em hemisférios Norte e Sul?",
+    "options": [
+      "Greenwich",
+      "Trópico de Capricórnio",
+      "Linha do Equador",
+      "Círculo Polar"
+    ],
+    "answer": 2,
+    "explanation": "A Linha do Equador fica a 0° de latitude."
+  }
+]
